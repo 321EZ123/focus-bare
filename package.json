@@ -1,24 +1,22 @@
 {
-    "name": "Focus-bare-server",
+    "name": "bare-server",
     "description": "A uv and dyn bare compatible bare server, on vercel and render",
     "version": "2.0.1",
     "homepage": "https://github.com/crllect/focus",
     "bugs": {
-        "email": "crllect@proton.me"
+        "email": "contact@petezahgames.com"
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/crllect/focus-bare.git"
     },
     "author": {
-        "name": "crllect",
+        "name": "petezah",
         "email": "crllect@proton.me",
         "url": "https://github.com/crllect"
     },
     "keywords": [
-        "proxy",
-        "tomp",
-        "tomphttp"
+        "petezah",
     ],
     "license": "AGPL-3.0",
     "engines": {
