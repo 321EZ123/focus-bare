@@ -1,24 +1,22 @@
 {
-    "name": "Focus-bare-server",
-    "description": "A uv and dyn bare compatible bare server, on vercel and render",
+    "name": "bare-server",
+    "description": "A uv server made by PeteZah Games using Tomphttp dependancies",
     "version": "2.0.1",
-    "homepage": "https://github.com/crllect/focus",
+    "homepage": "https://github.com/petezahv4/focus-bare.git",
     "bugs": {
-        "email": "crllect@proton.me"
+        "email": "contact@petezahgames.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/crllect/focus-bare.git"
+        "url": "https://github.com/petezahv4/focus-bare.git"
     },
     "author": {
         "name": "crllect",
-        "email": "crllect@proton.me",
-        "url": "https://github.com/crllect"
+        "email": "contact@petezahgames.com",
+        "url": "https://github.com/petezahv4"
     },
     "keywords": [
-        "proxy",
-        "tomp",
-        "tomphttp"
+        "petezah",
     ],
     "license": "AGPL-3.0",
     "engines": {
